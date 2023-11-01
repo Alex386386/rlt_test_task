@@ -6,4 +6,6 @@ README.md
 docker-compose.yaml
 .idea/
 __pycache__/
+.git/
 .gitignore
+.dockerignore
